@@ -1,6 +1,6 @@
 # Sort Product By Category
 
-** A website for displaying products related to a specific category. **
+A website for displaying products related to a specific category.
 
 ![16](https://github.com/user-attachments/assets/8163e6e1-2001-44a9-a182-09ddc504cf5e)
 
